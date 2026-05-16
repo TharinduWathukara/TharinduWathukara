@@ -80,9 +80,4 @@ Building scalable distributed systems, cloud-native platforms, DevOps automation
 ✔ Microservices Architecture
 ```
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
