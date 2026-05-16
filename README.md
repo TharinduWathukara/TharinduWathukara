@@ -15,8 +15,7 @@ Building scalable distributed systems, cloud-native platforms, DevOps automation
 ## 🚀 About Me
 
 - 💼 Lead Software Engineer at **Virtusa**
-- 🎓 B.Sc. Engineering (Hons) in Computer Science & Engineering  
-  from **University of Moratuwa, Sri Lanka**
+- 🎓 B.Sc. Engineering (Hons) in Computer Science & Engineering from **University of Moratuwa, Sri Lanka**
 - ☁️ Specialized in **Cloud-Native Engineering**
 - ⚙️ Passionate about **Kubernetes, DevOps, AI, Automation & Distributed Systems**
 - 🔥 Experienced in **Spring Boot, Node.js, Docker, Kubernetes, Terraform & AWS**
