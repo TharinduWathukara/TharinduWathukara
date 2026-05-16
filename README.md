@@ -29,19 +29,19 @@ Building scalable distributed systems, cloud-native platforms, DevOps automation
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,go,bash" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,bash" />
 </p>
 
 ### Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=angular,html,css" />
 </p>
 
 ### DevOps & Cloud
